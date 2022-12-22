@@ -8,7 +8,7 @@
     "dotenv": "^8.2.0",
     "esm": "^3.2.25",
     "joi": "^17.1.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "koa": "^2.13.0",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.1.0",
